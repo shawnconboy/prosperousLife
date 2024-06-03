@@ -1,0 +1,30 @@
+body {
+    margin: 02% 15%;
+    text-transform: capitalize;
+    background-color: rgb(24, 22, 33);
+    color: white;
+    font-family: "Inter", sans-serif;
+}
+
+header>a {
+    padding: 0px 10px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid;
+}
+
+.sub-container {
+    /* display: flex; */
+    /* justify-content: left; */
+    width: 100%;
+}
