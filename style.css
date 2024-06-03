@@ -1,9 +1,14 @@
 body {
     margin: 02% 15%;
     text-transform: capitalize;
-    background-color: rgb(24, 22, 33);
+    background-color: rgba(0, 0, 0, 0.918);
     color: white;
     font-family: "Inter", sans-serif;
+}
+
+a {
+    color: rgb(29, 150, 190);
+    text-decoration: none;
 }
 
 header>a {
