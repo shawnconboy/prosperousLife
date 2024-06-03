@@ -55,11 +55,19 @@ ul {
 }
 
 img {
+    display: block;
+    margin: auto;
+    width: auto;
+    max-width: 70%;
+    height: auto;
+}
+
+/* img {
     max-width: 500px;
     max-height: 100%;
     display: block;
     margin: auto;
-}
+} */
 
 iframe {
     display: block;
