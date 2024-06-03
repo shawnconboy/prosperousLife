@@ -1,7 +1,7 @@
 body {
     margin: 02% 15%;
     text-transform: capitalize;
-    background-color: rgba(0, 0, 0, 0.918);
+    background-color: rgb(15, 17, 21);
     color: white;
     font-family: "Inter", sans-serif;
 }
@@ -43,6 +43,10 @@ h3 {
     /* display: flex; */
     /* justify-content: left; */
     width: 100%;
+}
+
+ul {
+    list-style: none;
 }
 
 img {
