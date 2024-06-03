@@ -20,11 +20,22 @@ header {
     justify-content: center;
 }
 
+h1 {
+    text-align: center;
+}
+
+.introMessage {
+    text-align: center;
+}
+
+h2 {
+    color: rgb(34, 154, 102);
+}
+
 .container {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    align-items: center;
     /* border: 1px solid; */
 }
 
@@ -37,4 +48,11 @@ header {
 img {
     max-width: 500px;
     max-height: 100%;
+    display: block;
+    margin: auto;
+}
+
+iframe {
+    display: block;
+    margin: auto;
 }
