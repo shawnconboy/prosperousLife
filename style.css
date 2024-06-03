@@ -92,7 +92,7 @@ img {
 iframe {
     display: block;
     margin: auto;
-    width: auto;
-    max-width: 70%;
-    height: auto;
+    max-height: 100%;
+    /* max-width: 100%; */
+    /* border: 1px solid; */
 }
