@@ -1,6 +1,7 @@
 body {
     margin: 02% 15%;
     text-transform: capitalize;
+    background-image: linear-gradient(to left, #061715 0%, rgb(18, 23, 28) 50%, rgb(15, 18, 33) 100%);
     background-color: rgb(15, 17, 21);
     color: white;
     font-family: "Inter", sans-serif;
