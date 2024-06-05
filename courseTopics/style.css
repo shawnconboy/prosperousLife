@@ -5,6 +5,7 @@ body {
     background-color: rgb(15, 17, 21);
     color: white;
     font-family: "Inter", sans-serif;
+    padding-bottom: 50px;
 }
 
 .heading>h1 {
